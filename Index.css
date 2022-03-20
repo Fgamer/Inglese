@@ -1,0 +1,14 @@
+* {
+    /* Background things */
+    background-color: #2271b3;
+    flex: auto;
+}
+
+.button {
+    border-width: 3px;
+}
+
+.button#user {
+    background: rgb(34, 113, 179);
+    background: linear-gradient(90deg, rgba(34, 113, 179, 1) 0%, rgba(0, 212, 255, 1) 100%);
+}
